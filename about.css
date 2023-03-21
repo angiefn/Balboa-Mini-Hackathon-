@@ -1,0 +1,22 @@
+.about {
+  padding: 100px 70px 0px 10%;
+  width: 450px;
+}
+
+.earth {
+  width: 350px;
+  left: 60%;
+  top: 250px;
+  position: absolute;
+}
+
+.pics {
+  padding: 130px 70px 0px 20%;
+}
+
+.michelle {
+  width: 350px;
+  left: 60%;
+  top: 690px;
+  position: absolute;
+}
